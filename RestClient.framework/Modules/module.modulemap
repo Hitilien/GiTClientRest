@@ -1,0 +1,10 @@
+framework module RestClient {
+  umbrella header "RestClient.h"
+
+  export *
+  module * { export * }
+}
+
+module RestClient.Swift {
+    header "RestClient-Swift.h"
+}

@@ -9,9 +9,19 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>RestClientUniversal.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>7CB864071F26551000709894</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>7CD26C871F1FAB6B00093C92</key>
 		<dict>
 			<key>primary</key>
