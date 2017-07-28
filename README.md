@@ -15,7 +15,7 @@ Los requisitos para el framework son:
 ```
 ### Installing
 
-Una vez descargado o clonado arrastre a su proyecto el paquete RestClient.framework y copie si es necesario, asegurece que el framework se agrego correctamente en "Embedded Binaries" y "Linked Frameworks and Libraries".
+Una vez descargado o clonado arrastre a su proyecto el paquete RestClient.framework y copie si es necesario, asegúrese que el framework se agrego correctamente en "Embedded Binaries" y "Linked Frameworks and Libraries".
 
 ### Usage
 
